@@ -6,5 +6,5 @@
 ## 02_MachineLearning_VotingClassifier_FraudDetection
 - This study shows how to predict fraud (highly unbalanced data) using SMOTE as a resampling strategy and Voting Classifier to calculate probabilities. I used LogisticRegression, RandomForestClassifier, DecisionTreeClassifier and GradientBoostingClassifier to feed the Voting Classifier.
 
-## 03_DeepLearning_NLP_SpamDetection
+## 03_NLP_TextClassification
 - This study presents one way to build a model to do text classification (I used the 20 newsgroups dataset). As feature extraction strategy, I extracted TF-IDF vectors of tokens.
