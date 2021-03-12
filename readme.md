@@ -7,4 +7,6 @@
 - This study shows how to predict fraud (highly unbalanced data) using SMOTE as a resampling strategy and Voting Classifier to calculate probabilities. I used LogisticRegression, RandomForestClassifier, DecisionTreeClassifier and GradientBoostingClassifier to feed the Voting Classifier.
 
 ## 03_NLP_TextClassification
-- This study presents one way to build a model to do text classification (I used the 20 newsgroups dataset). As feature extraction strategy, I extracted TF-IDF vectors of tokens.
+1. (01_TextClassification4Categories_NLP_ML) This study presents one way to build a model to do text classification (I used the 20 newsgroups dataset). As feature extraction strategy, I extracted TF-IDF vectors of tokens.
+2. (02_SpamDetector_NLTK_ML) This study focus on building a binary classification model to detect which text messages are spam or not.  As feature extraction strategy, I extracted TF-IDF vectors of tokens from lemmatisation.
+
