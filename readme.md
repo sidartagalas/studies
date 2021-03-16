@@ -12,4 +12,13 @@
 3. (03_ReviewClassification_KERAS_DeepLearning) This study build a deep learning model with keras for amazon reviews. Using Bidirectional LSTM model, which is complex network and very well-known to achieve great metrics when talking about text classification, I got a great predictor of review's sentiment.
 
 ## 04_ClusteringAnalysis
+1. (01_ImageClassification_ConvNet_DeepLearning_cifar10) I implemented functions required to build a deep learning model to clasify imagens into 10 categories (I used Cifar10 dataset). It is a good way to learn how ConvNet can be used.
+
+## 05_ClusteringAnalysis
 1. (01_ClusterAnalysis_SKlearn_MethodExamples) I implemented functions required to use clustering algorithm (K-Means, DBSCAN, BIRCH, Agglomerative clustering, Dendrogram). I used mainly scikit-learn package.
+
+
+
+
+
+
